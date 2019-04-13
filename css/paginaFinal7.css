@@ -1,0 +1,1630 @@
+.cabesera5{
+    width: 55%;
+    overflow: hidden;
+}
+.cabesera5 button{
+    padding: 10px 47px;
+    margin: 60px 0px;
+    border-radius: 3px;
+    float: right;
+}
+.cabesera5 div{
+    margin: 105px 43.1%;
+    float: right; 
+}
+.NuestrosProductos {
+    position: relative;
+    display: inline-block;
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    list-style: none;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+  
+.dropdown-content a {
+    color: black;
+    text-decoration: none;
+    padding: 12px 16px;
+    display: block;
+}
+  
+.cabesera5 a:hover {
+    list-style: none;
+    background-color: #228B22;
+    color: #f1f1f1;
+}
+  
+.show {
+    display: block;
+}
+.cabesera11{
+    width: 80%;
+    margin: auto;
+}
+.cabesera11 div{
+    display: inline-block;
+}
+.nuevo3{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.producto1{
+    width: 100%;
+}
+.producto1 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto2{
+    width: 100%;
+}
+.producto2 img{
+    margin: 10px -30px;
+    width: 95%;
+    height: 65%;
+}
+.producto2 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo4{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.producto3{
+    width: 100%;
+}
+.producto3 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto4{
+    width: 100%;
+}
+.producto4 img{
+    margin: 30px -30px;
+    width: 95%;
+    height: 60%;
+}
+.producto4 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo5{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.producto5{
+    width: 100%;
+}
+.producto5 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto6{
+    width: 100%;
+}
+.producto6 img{
+    margin: 30px -30px;
+    width: 150%;
+    height: 65%;
+}
+.producto6 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo6{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.producto7{
+    width: 100%;
+}
+.producto7 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto8{
+    width: 100%;
+}
+.producto8 img{
+    margin: 8px -30px;
+    width: 120%;
+    height: 65%;
+}
+.producto8 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.cabesera12{
+    width: 80%;
+    margin: auto;
+}
+.cabesera12 div{
+    display: inline-block;
+}
+.nuevo7{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.producto9{
+    width: 100%;
+}
+.producto9 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto10{
+    width: 100%;
+}
+.producto10 img{
+    margin: 30px -30px;
+    width: 130%;
+    height: 65%;
+}
+.producto10 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo8{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.producto11{
+    width: 100%;
+}
+.producto11 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto12{
+    width: 100%;
+}
+.producto12 img{
+    margin: 8px -30px;
+    width: 120%;
+    height: 60%;
+}
+.producto12 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo9{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.producto13{
+    width: 100%;
+}
+.producto13 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto14{
+    width: 100%;
+}
+.producto14 img{
+    margin: 5px -30px;
+    width: 95%;
+    height: 60%;
+}
+.producto14 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo10{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.producto15{
+    width: 100%;
+}
+.producto15 button{
+    margin: 5px 30px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto16{
+    width: 100%;
+}
+.producto16 img{
+    margin: 20px -30px;
+    width: 160%;
+    height: 65%;
+}
+.producto16 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.cabesera13{
+    width: 80%;
+    margin: auto;
+}
+.cabesera13 div{
+    display: inline-block;
+}
+.nuevo11{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.producto17{
+    width: 100%;
+}
+.producto17 button{
+    margin: 5px 30px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto18{
+    width: 100%;
+}
+.producto18 img{
+    margin: 8px -30px;
+    width: 150px;
+    height: 140px;
+}
+.producto18 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo12{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.producto19{
+    width: 100%;
+}
+.producto19 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto20{
+    width: 100%;
+}
+.producto20 img{
+    margin: 15px -30px;
+    width: 120%;
+    height: 60%;
+}
+.producto20 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo13{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.producto21{
+    width: 100%;
+}
+.producto21 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto22{
+    width: 100%;
+}
+.producto22 img{
+    margin: 30px -30px;
+    width: 145px;
+    height: 160px;
+}
+.producto22 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo14{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.producto23{
+    width: 100%;
+}
+.producto23 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto24{
+    width: 100%;
+}
+.producto24 img{
+    margin: 12px -30px;
+    width: 108%;
+    height: 55%;
+}
+.producto24 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.cabesera14{
+    width: 80%;
+    margin: auto;
+}
+.cabesera14 div{
+    display: inline-block;
+}
+.nuevo15{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.producto25{
+    width: 100%;
+}
+.producto25 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto26{
+    width: 100%;
+}
+.producto26 img{
+    margin: 30px -50px;
+    width: 180%;
+    height: 60%;
+}
+.producto26 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo16{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.producto27{
+    width: 100%;
+}
+.producto27 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto28{
+    width: 100%;
+}
+.producto28 img{
+    margin: 20px -30px;
+    width: 150px;
+    height: 135px;
+}
+.producto28 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo17{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.producto29{
+    width: 100%;
+}
+.producto29 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto30{
+    width: 100%;
+}
+.producto30 img{
+    margin: 10px -30px;
+    width: 120%;
+    height: 60%;
+}
+.producto30 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo18{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.producto31{
+    width: 100%;
+}
+.producto31 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto32{
+    width: 100%;
+}
+.producto32 img{
+    margin: 15px -45px;
+    width: 150%;
+    height: 60%;
+}
+.producto32 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.etiqueta{
+    width: 80%;
+    margin: auto;
+}
+.etiqueta div{
+    display: inline-block;
+}
+.solo1{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.vamo1{
+    width: 100%;
+}
+.vamo1 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo2{
+    width: 100%;
+}
+.vamo2 img{
+    margin: 20px -30px;
+    width: 130%;
+    height: 70%;
+}
+.vamo2 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.solo2{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.vamo3{
+    width: 100%;
+}
+.vamo3 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo4{
+    width: 100%;
+}
+.vamo4 img{
+    margin: 20px -30px;
+    width: 140%;
+    height: 60%;
+}
+.vamo4 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.solo3{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.vamo5{
+    width: 100%;
+}
+.vamo5 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo6{
+    width: 100%;
+}
+.vamo6 img{
+    margin: 30px -40px;
+    width: 150%;
+    height: 55%;
+}
+.vamo6 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.solo4{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.vamo7{
+    width: 100%;
+}
+.vamo7 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo8{
+    width: 100%;
+}
+.vamo8 img{
+    margin: 20px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vamo8 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.etiqueta1{
+    width: 80%;
+    margin: auto;
+}
+.etiqueta1 div{
+    display: inline-block;
+}
+.solo5{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.vamo9{
+    width: 100%;
+}
+.vamo9 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo10{
+    width: 100%;
+}
+.vamo10 img{
+    margin: 30px -40px;
+    width: 150%;
+    height: 55%;
+}
+.vamo10 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.solo6{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.vamo11{
+    width: 100%;
+}
+.vamo11 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo12{
+    width: 100%;
+}
+.vamo12 img{
+    margin: 20px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vamo12 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.solo7{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.vamo13{
+    width: 100%;
+}
+.vamo13 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo14{
+    width: 100%;
+}
+.vamo14 img{
+    margin: 20px -30px;
+    width: 130%;
+    height: 55%;
+}
+.vamo14 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.solo8{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.vamo15{
+    width: 100%;
+}
+.vamo15 button{
+    margin: 5px 30px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo16{
+    width: 100%;
+}
+.vamo16 img{
+    margin: 20px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vamo16 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.etiqueta2{
+    width: 80%;
+    margin: auto;
+}
+.etiqueta2 div{
+    display: inline-block;
+}
+.solo9{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.vamo17{
+    width: 100%;
+}
+.vamo17 button{
+    margin: 5px 30px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo18{
+    width: 100%;
+}
+.vamo18 img{
+    margin: 8px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vamo18 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.solo10{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.vamo19{
+    width: 100%;
+}
+.vamo19 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo20{
+    width: 100%;
+}
+.vamo20 img{
+    margin: 15px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vamo20 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.solo11{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.vamo21{
+    width: 100%;
+}
+.vamo21 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo22{
+    width: 100%;
+}
+.vamo22 img{
+    margin: 0px -30px;
+    width: 145px;
+    height: 160px;
+}
+.vamo22 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.solo12{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.vamo23{
+    width: 100%;
+}
+.vamo23 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo24{
+    width: 100%;
+}
+.vamo24 img{
+    margin: 12px -30px;
+    width: 190px;
+    height: 155px;
+}
+.vamo24 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.etiqueta3{
+    width: 80%;
+    margin: auto;
+}
+.etiqueta3 div{
+    display: inline-block;
+}
+.solo13{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.vamo25{
+    width: 100%;
+}
+.vamo25 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo26{
+    width: 100%;
+}
+.vamo26 img{
+    margin: 20px -30px;
+    width: 150px;
+    height: 140px;
+}
+.vamo26 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.solo14{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.vamo27{
+    width: 100%;
+}
+.vamo27 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo28{
+    width: 100%;
+}
+.vamo28 img{
+    margin: 20px -30px;
+    width: 150px;
+    height: 135px;
+}
+.vamo28 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.solo15{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.vamo29{
+    width: 100%;
+}
+.vamo29 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo30{
+    width: 100%;
+}
+.vamo30 img{
+    margin: 30px -30px;
+    width: 180px;
+    height: 140px;
+}
+.vamo30 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.solo16{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.vamo31{
+    width: 100%;
+}
+.vamo31 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vamo32{
+    width: 100%;
+}
+.vamo32 img{
+    margin: 8px -30px;
+    width: 110%;
+    height: 50%;
+}
+.vamo32 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.etiqueto{
+    width: 80%;
+    margin: auto;
+}
+.etiqueto div{
+    display: inline-block;
+}
+.sol1{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.vam1{
+    width: 100%;
+}
+.vam1 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam2{
+    width: 100%;
+}
+.vam2 img{
+    margin: 20px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vam2 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.sol2{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.vam3{
+    width: 100%;
+}
+.vam3 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam4{
+    width: 100%;
+}
+.vam4 img{
+    margin: 20px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vam4 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.sol3{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.vam5{
+    width: 100%;
+}
+.vam5 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam6{
+    width: 100%;
+}
+.vam6 img{
+    margin: 15px -40px;
+    width: 150%;
+    height: 55%;
+}
+.vam6 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.sol4{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.vam7{
+    width: 100%;
+}
+.vam7 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam8{
+    width: 100%;
+}
+.vam8 img{
+    margin: 60px -30px;
+    width: 190px;
+    height: 120px;
+}
+.vam8 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.etiqueto1{
+    width: 80%;
+    margin: auto;
+}
+.etiqueto1 div{
+    display: inline-block;
+}
+.sol5{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.vam9{
+    width: 100%;
+}
+.vam9 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam10{
+    width: 100%;
+}
+.vam10 img{
+    margin: 30px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vam10 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.sol6{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.vam11{
+    width: 100%;
+}
+.vam11 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam12{
+    width: 100%;
+}
+.vam12 img{
+    margin: 0px -30px;
+    width: 130%;
+    height: 55%;
+}
+.vam12 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.sol7{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.vam13{
+    width: 100%;
+}
+.vam13 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam14{
+    width: 100%;
+}
+.vam14 img{
+    margin: 50px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vam14 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.sol8{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.vam15{
+    width: 100%;
+}
+.vam15 button{
+    margin: 5px 30px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam16{
+    width: 100%;
+}
+.vam16 img{
+    margin: 20px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vam16 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.etiqueto2{
+    width: 80%;
+    margin: auto;
+}
+.etiqueto2 div{
+    display: inline-block;
+}
+.sol9{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.vam17{
+    width: 100%;
+}
+.vam17 button{
+    margin: 5px 30px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam18{
+    width: 100%;
+}
+.vam18 img{
+    margin: 8px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vam18 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.sol10{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.vam19{
+    width: 100%;
+}
+.vam19 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam20{
+    width: 100%;
+}
+.vam20 img{
+    margin: 15px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vam20 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.sol11{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.vam21{
+    width: 100%;
+}
+.vam21 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam22{
+    width: 100%;
+}
+.vam22 img{
+    margin: 0px -30px;
+    width: 145px;
+    height: 160px;
+}
+.vam22 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.sol12{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.vam23{
+    width: 100%;
+}
+.vam23 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam24{
+    width: 100%;
+}
+.vam24 img{
+    margin: 12px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vam24 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.etiqueto3{
+    width: 80%;
+    margin: auto;
+}
+.etiqueto3 div{
+    display: inline-block;
+}
+.sol13{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.vam25{
+    width: 100%;
+}
+.vam25 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam26{
+    width: 100%;
+}
+.vam26 img{
+    margin: 30px -40px;
+    width: 150%;
+    height: 55%;
+}
+.vam26 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.sol14{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.vam27{
+    width: 100%;
+}
+.vam27 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam28{
+    width: 100%;
+}
+.vam28 img{
+    margin: 30px -30px;
+    width: 150px;
+    height: 135px;
+}
+.vam28 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.sol15{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.vam29{
+    width: 100%;
+}
+.vam29 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam30{
+    width: 100%;
+}
+.vam30 img{
+    margin: 10px -30px;
+    width: 180px;
+    height: 140px;
+}
+.vam30 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.sol16{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.vam31{
+    width: 100%;
+}
+.vam31 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.vam32{
+    width: 100%;
+}
+.vam32 img{
+    margin: 15px -30px;
+    width: 150%;
+    height: 55%;
+}
+.vam32 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}

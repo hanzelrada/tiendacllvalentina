@@ -1,0 +1,528 @@
+.cabesera11{
+    width: 80%;
+    margin: auto;
+}
+.cabesera11 div{
+    display: inline-block;
+}
+.nuevo3{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.producto1{
+    width: 100%;
+}
+.producto1 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto2{
+    width: 100%;
+}
+.producto2 img{
+    margin: 20px -30px;
+    width: 180px;
+    height: 120px;
+}
+.producto2 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo4{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.producto3{
+    width: 100%;
+}
+.producto3 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto4{
+    width: 100%;
+}
+.producto4 img{
+    margin: 20px -30px;
+    width: 190px;
+    height: 120px;
+}
+.producto4 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo5{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.producto5{
+    width: 100%;
+}
+.producto5 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto6{
+    width: 100%;
+}
+.producto6 img{
+    margin: 15px -30px;
+    width: 180px;
+    height: 120px;
+}
+.producto6 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo6{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.producto7{
+    width: 100%;
+}
+.producto7 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto8{
+    width: 100%;
+}
+.producto8 img{
+    margin: 20px -30px;
+    width: 190px;
+    height: 120px;
+}
+.producto8 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.cabesera12{
+    width: 80%;
+    margin: auto;
+}
+.cabesera12 div{
+    display: inline-block;
+}
+.nuevo7{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.producto9{
+    width: 100%;
+}
+.producto9 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto10{
+    width: 100%;
+}
+.producto10 img{
+    margin: 15px -30px;
+    width: 180px;
+    height: 130px;
+}
+.producto10 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo8{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.producto11{
+    width: 100%;
+}
+.producto11 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto12{
+    width: 100%;
+}
+.producto12 img{
+    margin: 8px -30px;
+    width: 150px;
+    height: 130px;
+}
+.producto12 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo9{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.producto13{
+    width: 100%;
+}
+.producto13 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto14{
+    width: 100%;
+}
+.producto14 img{
+    margin: 30px -30px;
+    width: 160px;
+    height: 125px;
+}
+.producto14 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo10{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.producto15{
+    width: 100%;
+}
+.producto15 button{
+    margin: 5px 30px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto16{
+    width: 100%;
+}
+.producto16 img{
+    margin: 20px -30px;
+    width: 145px;
+    height: 125px;
+}
+.producto16 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.cabesera13{
+    width: 80%;
+    margin: auto;
+}
+.cabesera13 div{
+    display: inline-block;
+}
+.nuevo11{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.producto17{
+    width: 100%;
+}
+.producto17 button{
+    margin: 5px 30px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto18{
+    width: 100%;
+}
+.producto18 img{
+    margin: 8px -30px;
+    width: 150px;
+    height: 140px;
+}
+.producto18 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo12{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.producto19{
+    width: 100%;
+}
+.producto19 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto20{
+    width: 100%;
+}
+.producto20 img{
+    margin: 15px -30px;
+    width: 155px;
+    height: 130px;
+}
+.producto20 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo13{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.producto21{
+    width: 100%;
+}
+.producto21 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto22{
+    width: 100%;
+}
+.producto22 img{
+    margin: 0px -30px;
+    width: 145px;
+    height: 160px;
+}
+.producto22 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo14{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 4px 20px;
+    height: 40%;
+}
+.producto23{
+    width: 100%;
+}
+.producto23 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto24{
+    width: 100%;
+}
+.producto24 img{
+    margin: 12px -30px;
+    width: 190px;
+    height: 155px;
+}
+.producto24 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.cabesera14{
+    width: 80%;
+    margin: auto;
+}
+.cabesera14 div{
+    display: inline-block;
+}
+.nuevo15{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    margin-left: 85px;
+    height: 40%;
+}
+.producto25{
+    width: 100%;
+}
+.producto25 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto26{
+    width: 100%;
+}
+.producto26 img{
+    margin: 20px -30px;
+    width: 150px;
+    height: 140px;
+}
+.producto26 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo16{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.producto27{
+    width: 100%;
+}
+.producto27 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto28{
+    width: 100%;
+}
+.producto28 img{
+    margin: 10px -30px;
+    width: 150px;
+    height: 135px;
+}
+.producto28 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo17{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.producto29{
+    width: 100%;
+}
+.producto29 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto30{
+    width: 100%;
+}
+.producto30 img{
+    margin: 10px -30px;
+    width: 180px;
+    height: 140px;
+}
+.producto30 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}
+.nuevo18{
+    background: url("../img/productos/fondo1.jpg");
+    width: 18%;
+    overflow: hidden;
+    margin: 10px 20px;
+    height: 40%;
+}
+.producto31{
+    width: 100%;
+}
+.producto31 button{
+    margin: 5px 32px;
+    color: #f1f1f1;
+    padding: 4px 20px;
+    background: #333;
+    border-radius: 3px;
+
+}
+.producto32{
+    width: 100%;
+}
+.producto32 img{
+    margin: 15px -30px;
+    width: 155px;
+    height: 130px;
+}
+.producto32 p{
+    color: #f1f1f1;
+    text-align: center;
+    margin: 30px 5px;
+}

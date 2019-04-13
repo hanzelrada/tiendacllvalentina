@@ -1,0 +1,322 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(../img/fondo/fondo3.jpg);
+}
+div[class="cabesera1"]{
+    width: 100%;
+    height: 5%;
+    background:	#228B22;
+    overflow: hidden;
+}
+div[class="primera11"]{
+    width: 14%;
+    padding: 1px 25px;
+    float: left;
+    overflow: hidden;
+}
+div[class="ok"]{
+    width: 5%;
+    float: left;
+}
+div[class="ok1"]{
+    width: 92%;
+    font-size: 12px;
+    margin: 8px 0px;
+    float: right;
+    color: white;
+}
+#ico{
+    width: 30px;
+    height: 20px;
+}
+div[class="primera13"]{
+    width: 18%;
+    float: left;
+    overflow: hidden;
+}
+div[class="hola"]{
+    width: 5%;
+    margin: 4px 0px;
+    float: left;
+}
+div[class="hola1"]{
+    width: 92%;
+    overflow: hidden;
+    margin: 8px 0px;
+    float: right;
+}
+#foto01{
+    width: 35px;
+    height: 20px;
+    float: left;
+}
+#hola2{
+    float: left;
+    font-size: 12px;
+    color: white;
+}
+div[class="primera15"]{
+    width: 20%;
+    overflow: hidden;
+    float: left;
+}
+div[class="hola3"]{
+    width: 5%;
+    margin: 4px 0px;
+    float: left;
+}
+div[class="hola4"]{
+    width: 92%;
+    float: left;
+    margin: 8px 0px;
+}
+#hola5{
+    color: white;
+    font-size: 12px;
+}
+#foto02{
+    width: 30px;
+    height: 20px;
+}
+div[class="segunda1"]{
+    width: 27%;
+    float: right;
+}
+div[class="segunda1"], img{
+    text-align: center;
+    margin: 5px 0px;
+    display: inline;
+    text-align: left;
+}
+#foto11{
+    width: 15px;
+    height: 20px;
+    margin: 0px 5px;
+}
+#foto12{
+    width: 15px;
+    height: 20px;
+    margin: 0px 10px;
+}
+#foto13{
+    width: 15px;
+    height: 20px;
+    margin: 0px 5px;
+}
+div[class="cabesera2"]{
+    width: 100%;
+    background: white;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    
+    padding: px 0px;
+}
+div[class="logo"]{
+    width: 65%;
+    margin: 0px 20px;
+}
+#logo1{
+    float: right;
+    width: 50%;
+    height: 20%;
+}
+div[class="cabesera3"], p{
+    padding: 0px 20px;
+}
+div[class="cabesera3.1"]{
+    margin: 7px 40px;
+    float: left;
+}
+#foto14{
+    width: 20px;
+    height: 30px;
+    color: azure;
+}
+div[class="vamos10"]{
+    width: 70%;
+    overflow: hidden;
+}
+#foto19{
+    float: right;
+    width: 500px;
+    height: 300px;
+}
+div[class="cabesera6"]{
+    width: 100%;
+    overflow: hidden;
+    margin: 30px auto;
+    padding: auto;
+}
+div[class="dale"]{
+    width: 60%;
+    margin: 0px 20px;
+    float: left;
+}
+.header {
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+}
+  
+#navbar {
+    opacity: 0.9;
+    overflow: hidden;
+    background-color: #333;
+}
+#navbar a {
+    float: right;
+    display: block;
+    border-left: 1px solid white;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+#navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+#navbar a.active {
+    background-color:#228B22;
+    color: white;
+}
+.pinter{
+    width: 100%;
+    background: #228B22;
+    height: 1%;
+}
+.cabesera6{
+    width: 100%;
+    overflow: hidden;
+}
+.final1{
+    width: 60%;
+    float: left;
+    background: #f1f1f1;
+    border-radius: 5px;
+    margin-left: 100px;
+    border: 1px solid black;
+}
+.final2{
+    width: 20%;
+    background: #f1f1f1;
+    float: right;
+    border-radius: 5px;
+    margin-right: 120px;
+    border: 1px solid black;
+}
+.final1 h4{
+    width: 40%;
+    height: 4.2%;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: 300;
+    font-size: 120%;
+    color: #f1f1f1;
+    background: #333;
+    margin: 12px 15px;
+}
+.final1 img{
+    width: 700px;
+    height: 300px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.final1 ul{
+    margin-left: 40px;
+}
+.final1 p{
+    color: rgb(94, 91, 91);
+}
+.final1 li{
+    margin: 12px 0px;
+    color: rgb(94, 91, 91);
+}
+.final2 h4{
+    width: 80%;
+    height: 6.5%;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #f1f1f1;
+    background: #228B22;
+    margin: 15px 15px;
+}
+.final2 ul{
+    margin-left: 40px;
+}
+.final2 li{
+    margin: 12px 0px;
+    color: rgb(94, 91, 91);
+}
+.cabesera9{
+    width: 100%;
+    overflow: hidden;
+    background: rgb(24, 23, 23);
+}
+.pie{
+    margin: 30px 0px;
+    width: 30%;
+    float: left;
+}
+.pie1{
+    color: white;
+    margin: 13px 0px;
+    width: 20%;
+    float: left;
+}
+.pie2{
+    color: white;
+    margin: 13px 8px;
+    width: 20%;
+    float: left;
+}
+.pie3{
+    color: white;
+    margin: 13px 0px;
+    width: 20%;
+    float: left;
+}
+.pie02 li{
+    list-style: none;
+    font-size: 80%;
+}
+.pie04 li{
+    list-style: none;
+    font-size: 80%;
+}
+.pie06 li{
+    list-style: none;
+    font-size: 80%;
+}
+.pie img{
+    width: 300px;
+    height: 100px;
+}
+.pie4{
+    width: 100%;
+}
+.pie07{
+    width: 50%;
+    float: left;
+    margin: 0px 5px;
+    list-style: none;
+    text-align: left;
+    color: white;
+    font-size: 80%;
+}
+.pie08{
+    width: 30%;
+    float: right;
+    margin: 0px 3px;
+    list-style: none;
+    text-align: right;
+    color: white;
+    font-size: 80%;
+}
